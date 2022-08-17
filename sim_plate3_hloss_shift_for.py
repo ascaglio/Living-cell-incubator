@@ -1,3 +1,5 @@
+#Code for numerical simulation of the control system using a range of values for USP and LSP
+
 import numpy as np
 #from mpl_toolkits import mplot3d
 #import matplotlib.pyplot as plt 
